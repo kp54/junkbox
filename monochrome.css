@@ -1,0 +1,3 @@
+a[href*="ads.nicovideo.jp"] {
+    display: none !important
+}
