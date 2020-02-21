@@ -1,0 +1,22 @@
+/* for misskey */
+
+.ldlomzub > .me {
+    display: none;
+}
+
+.ldlomzub > .main {
+    padding: unset !important;
+    border: unset !important;
+}
+
+body {
+    background-image: linear-gradient(white, slategray);
+}
+
+.article, .notification {
+    background-color: ghostwhite;
+}
+
+.mk-ui > .header > .main > .backdrop, .mk-ui > .content > div > div > header {
+    background-color: lavender;
+}
